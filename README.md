@@ -1,76 +1,290 @@
+[![MasterHead](https://github.com/CodeWithTanim/README-MANAGER/blob/main/GitHub.gif)](http://www.msrtanim.xyz)
 
-<h1 align="center">Hi 👋, I'm Joy Chandra Shill</h1>
-<h3 align="center">A passionate Data analyst from Bangladesh</h3>
-<img align="right" alt="coding" width="400"
-  src="https://github.com/learnwithjoyshill/learnwithjoyshill/blob/main/banner.gif">
+<h2>Howdy , it's <i>MD SAMIUR RAHMAN TANIM 👋</i></h2>
+A Passionate <b>Developer</b> from <i><b>BANGLADESH</b></i> 
+<br /><br />
 
-<p align="left"> <img
-    src="https://komarev.com/ghpvc/?username=learnwithjoyshill&label=Profile%20views&color=0e75b6&style=flat"
-    alt="learnwithjoyshill" /> </p>
-
-- 🌱 I’m currently learning **Python,Numpy**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **jshill668@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/learnwithjoys" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="learnwithjoys" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/learnwithjoyshill/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="learnwithjoyshill/" height="30" width="40" /></a>
-  <a href="https://fb.com/learnwithjoyshill" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="learnwithjoyshill" height="30" width="40" /></a>
+<!-- Badges -->
+<p>
+    <a href="#"><img src="https://img.shields.io/github/followers/CodeWithTanim?style=social&label=follow"></a>
+    <a href="#"><img src="https://img.shields.io/github/stars/CodeWithTanim?style=social"></a>
+    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCodeWithTanim&title=Visitors&count_bg=%230073EB"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-      height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-      width="40" height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a> </p>
+<!-- Console? -->
+<pre>
+sh-2.0$ /bin/bash -i
+~#
+~# ls
+<a href="#-AboutMe">AboutMe</a> <a href="#-projects">Projects</a> <a href="#-internship">Internship</a> <a href="#-head-language">language</a> <a href="#-sysinfo">sysinfo*</a> <a href="#-Trophy">Trophy</a> <a href="#-Stats">Stats</a> <a href="#-Streak">Streak</a> <a href="#-Contribution">Contribution</a>
+</pre>
 
-<h3 align="left">Stats:</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/stats-output/stats.svg" height="150"
-    alt="stats graph" /> <br>
+<!-- Social Badges-->
+<hr />
+<p align=center>
+    <a href="https://t.me/CodeWithTanim" target="_blank"><img
+            src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
+            alt="Telegram"></a>
+    <a href="https://www.linkedin.com/in/CodeWithTanim" target="_blank"><img
+            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://facebook.com/CodeWithTanim" target="_blank"><img
+            src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logoColor=white&logo=facebook"
+            alt="Facebook"></a>
+    <a href="https://instagram.com/CodeWithTanim" target="_blank"><img
+            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
+            alt="Instagram"></a>
+    <a href="https://youtube.com/@CodeWithTanim" target="_blank"><img
+            src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logoColor=red&logo=YouTube"
+            alt="GPG Key"></a>
+    <a href="https://exploitinject.ct.ws/" target="_blank"><img
+            src="https://img.shields.io/badge/Website-Green?style=for-the-badge&logoColor=red&logo=Earth"
+            alt="GPG Key"></a>
+</p>
+<hr />
 
-  <h3 align="left">Language Graph:</h3>
-  <img src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/languages-output/languages.svg"
-    height="150" alt="languages graph" /> <br>
+### `~# AboutMe`
+<a href="#"><img align="right" height=300 src="assets/programmer.gif"></a>
 
-  <h3 align="left">Trophy:</h3>
-  <img src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/trophy-output/trophy.svg" height="150"
-    alt="trophy graph" />
-</div>
+- I am a **student** 📚
+- I am from **Bangladesh** 🇧🇩 
+- Love of my life : **WiFi** 🛜
+- Dream: become a software engineer 💸
+- Fun Fact: I spend more time in **Gaming**
 
-<h3 align="left">Streak:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithjoyshill&"
-    alt="learnwithjoyshill" /></p>
+### Current Works:
+- Participating in Hackathon's.
+- Learning C++.
+- Trying to get good marks in exams.
+- Working on some private projects.
+<hr />
 
-<h3 align="left">Contribution Graph:</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/learnwithjoyshill/learnwithjoyshill/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
+### `~# Projects`
+<br>
+<table border="1">
+    <tr>
+        <th>Repository Name</th>
+        <th>Description</th>
+        <th>Date</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/TERMUX-SETUP-PRO">TERMUX-PRO-SETUP</a></td>
+        <td>An automated setup tool for Termux.</td>
+        <td>Oct 19, 2023</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/ENC">ENC</a></td>
+        <td>Encrypt any Python Scripts.</td>
+        <td>Jan 30, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Password-Generator">Password Generator</a></td>
+        <td>It works for making strong password.</td>
+        <td>Oct 20, 2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Cosmetics-Product-Management-System">Cosmetics Products Management System</a></td>
+        <td>A product management website.</td>
+        <td>Oct 2024</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Unclickable-Love">Unclickable Love</a></td>
+        <td>A funny website made with unclickable button.</td>
+        <td>Feb 20, 2024</td>
+    </tr>
+        <tr>
+        <td><a href="https://github.com/CodeWithTanim/Tik-Tak-Toe">Tik-Tak-Toe</a></td>
+        <td>This is a Tik-Tak-Toe Game.</td>
+        <td>Feb 23, 2025</td>
+    </tr>
+        </tr>
+        <tr>
+        <td><a href="https://github.com/CodeWithTanim/Online-Quiz-App">Online-Quiz-App</a></td>
+        <td>A simple and interactive online quiz app.</td>
+        <td>Mar 29, 2025</td>
+    </tr>
+    </tr>
+        </tr>
+        <tr>
+        <td><a href="https://github.com/CodeWithTanim/real-time-stock-market-dashboard">Real-Time-Stock-Market-Dashboard</a></td>
+        <td>Interactive real-time stock market dashboard using Python.</td>
+        <td>June 15, 2025</td>
+    </tr>
+    </tr>
+        </tr>
+        <tr>
+        <td><a href="https://github.com/CodeWithTanim/automated-resume-parser">Automated-Resume-Parser</a></td>
+        <td>Automated resume parser using Python to extract structured data from resumes..</td>
+        <td>June 16, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Cryptography-Algorithms-Implementation">Cryptography-Algorithms-Implementation</a></td>
+        <td>Implementation of classical and modern cryptography algorithms with Python.</td>
+        <td>August 31, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Password-Cracking-and-Hashing-Algorithms">Password-Cracking-and-Hashing-Algorithms</a></td>
+        <td>Demonstrates password cracking techniques and secure hashing algorithm implementations.</td>
+        <td>August 31, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Custom-Ransomware-Simulation">Custom-Ransomware-Simulation</a></td>
+        <td>Educational ransomware simulation showing encryption & decryption in a safe environment.</td>
+        <td>August 31, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/TaskFlow">TaskFlow</a></td>
+        <td>TaskFlow - A Modern Task Manager.</td>
+        <td>Oct 09, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Data-Splitter">Data-Splitter</a></td>
+        <td>A powerful, user-friendly desktop application for splitting large TXT, XLSX, XML, CSV files into smaller, manageable parts with customizable options and batch processing capabilities.</td>
+        <td>Oct 18, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Ai-Image-Generator">Ai-Image-Generator</a></td>
+        <td>A powerful SaaS platform for AI-powered image generation built with modern web technologies.</td>
+        <td>Nov 27, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://codewithtanim.is-a.dev/private.html">InvestFlow – HYIP Investment Platform</a></td>
+        <td>InvestFlow – HYIP Investment Platform.</td>
+        <td>Dec 2, 2025</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/Nitro-Rush">Nitro-Rush</a></td>
+        <td>Nitro-Ruch is a High Speed Racing Game.</td>
+        <td> Mar 12, 2026</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/FormFarm">FormFarm</a></td>
+        <td>FormFarm | Professional Formspree Clone (SaaS).</td>
+        <td>Mar 09, 2026</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/EduTrack">EduTrack</a></td>
+        <td>EduTrack - Modern Homework Management.</td>
+        <td>Apr 18, 2026</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/RED-EYE-LEAD-HUNTER">RED-EYE-LEAD-HUNTER</a></td>
+        <td>A high-performance, dark-themed Chrome Extension for automated lead extraction from Google Maps.</td>
+        <td>Apr 28, 2026</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CodeWithTanim/GHOST-HAND">GHOST HAND</a></td>
+        <td>A professional, modular, and secure Windows automation system controlled entirely via Telegram.</td>
+        <td>May 9, 2026</td>
+    </tr>
+    <tr>
+        <td><a href="https://codewithtanim.is-a.dev/ComingSoon.html">COMING SOON</a></td>
+        <td>COMING SOON.</td>
+        <td>COMING SOON</td>
+    </tr>
+    <!-- <tr>
+        <td><a href="#">TITLE</a></td>
+        <td>DESCRIPTION.</td>
+        <td>mmmddyyy</td>
+    </tr> -->
+</table>
+
+<br/>
+<hr />
+
+### `~# Internship`
+<br>
+<table border="1">
+    <tr>
+        <th>Domain Name</th>
+        <th>Company</th>
+        <th>Starting Date</th>
+        <th>End Date</th>
+        <th>Internship Projects</th>
+    </tr>
+    <tr>
+        <td>Python Developer</td>
+        <td><a href="https://codectechnologies.in/">Codec Technologies India</a></td>
+        <td>June 10, 2025</td>
+        <td>July 10, 2025</td>
+        <td><a href="https://github.com/CodeWithTanim/real-time-stock-market-dashboard">Real-Time-Stock-Market-Dashboard</a> & <a href="https://github.com/CodeWithTanim/automated-resume-parser">Automated-Resume-Parser</a></td>
+    </tr>
+    <tr>
+        <td>Cyber Security</td>
+        <td><a href="https://codectechnologies.in/">Codec Technologies India</a></td>
+        <td>July 01, 2025</td>
+        <td>August 31, 2025</td>
+        <td><a href="https://github.com/CodeWithTanim/Cryptography-Algorithms-Implementation">Cryptography-Algorithms-Implementation</a>, <a href="https://github.com/CodeWithTanim/Password-Cracking-and-Hashing-Algorithms">Password-Cracking-and-Hashing-Algorithms</a> & <a href="https://github.com/CodeWithTanim/Custom-Ransomware-Simulation">Custom-Ransomware-Simulation</a></td>
+    </tr>
+</table>
+<br/>
+<hr/>
+
+<!-- Languages -->
+### `~# head language`
+<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithTanim&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
+
+```python
+class Languages:
+  def __init__(self):
+    self.python = "Python 🐍"
+    self.bash = "Bash 🔩"
+    self.golang = "C"
+    self.golang = "Java"
+    self.golang = "C++ (Learning)"
+    self.future = "..."
+```
+
+<br/>
+<hr />
+
+<!-- System Info -->
+### `~# ./sysinfo`
+<table border="1">
+  <tr>
+    <th>Device</th>
+    <th>Operating System</th>
+    <th>Processor</th>
+    <th>RAM</th>
+  </tr>
+  <tr>
+    <td>Laptop</td>
+    <td>Windows 11 Home</td>
+    <td>AMD RYZEN 5</td>
+    <td>24 GB</td>
+  </tr>
+  <tr>
+    <td>Desktop</td>
+    <td>Windows 10 Pro</td>
+    <td>Intel Pentium</td>
+    <td>6 GB</td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>Android 12</td>
+    <td>Qualcomm SDM765G</td>
+    <td>13 GB</td>
+  </tr>
+</table>
+<hr />
+
+<!-- GitHub Trophy -->
+### `~# ./Trophy`
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=CodeWithTanim&theme=darkhub" alt="CodeWithTanim" /></a> </p>
+<hr />
+
+<!-- GitHub Stats -->
+### `~# ./Stats`
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeWithTanim&show_icons=true&locale=en" alt="CodeWithTanim" /></p>
+<hr />
+
+<!-- GitHub Contribution -->
+### `~# ./Streak`
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithTanim" alt="CodeWithTanim" /></p>
+
+### `~# ./Contribution`
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CodeWithTanim/CodeWithTanim/output/snake.svg" alt="Snake animation" />
+<!-- end -->
+
+
